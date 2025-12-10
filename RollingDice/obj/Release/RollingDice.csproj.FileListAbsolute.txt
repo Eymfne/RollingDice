@@ -1,0 +1,11 @@
+D:\Program Files\RollingDice\RollingDice\bin\Release\RollingDice.exe.config
+D:\Program Files\RollingDice\RollingDice\bin\Release\RollingDice.exe
+D:\Program Files\RollingDice\RollingDice\bin\Release\RollingDice.pdb
+D:\Program Files\RollingDice\RollingDice\obj\Release\RollingDice.csproj.AssemblyReference.cache
+D:\Program Files\RollingDice\RollingDice\obj\Release\RollingDice.Properties.Resources.resources
+D:\Program Files\RollingDice\RollingDice\obj\Release\RollingDice.csproj.GenerateResource.cache
+D:\Program Files\RollingDice\RollingDice\obj\Release\RollingDice.csproj.CoreCompileInputs.cache
+D:\Program Files\RollingDice\RollingDice\obj\Release\RollingDice.exe
+D:\Program Files\RollingDice\RollingDice\obj\Release\RollingDice.pdb
+D:\Program Files\RollingDice\RollingDice\obj\Release\DiceWinForm.Form1.resources
+D:\Program Files\RollingDice\RollingDice\bin\Release\dice_icon.ico

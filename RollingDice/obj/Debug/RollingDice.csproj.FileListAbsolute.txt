@@ -1,0 +1,9 @@
+D:\Program Files\RollingDice\RollingDice\bin\Debug\RollingDice.exe.config
+D:\Program Files\RollingDice\RollingDice\bin\Debug\RollingDice.exe
+D:\Program Files\RollingDice\RollingDice\bin\Debug\RollingDice.pdb
+D:\Program Files\RollingDice\RollingDice\obj\Debug\RollingDice.csproj.AssemblyReference.cache
+D:\Program Files\RollingDice\RollingDice\obj\Debug\RollingDice.Properties.Resources.resources
+D:\Program Files\RollingDice\RollingDice\obj\Debug\RollingDice.csproj.GenerateResource.cache
+D:\Program Files\RollingDice\RollingDice\obj\Debug\RollingDice.csproj.CoreCompileInputs.cache
+D:\Program Files\RollingDice\RollingDice\obj\Debug\RollingDice.exe
+D:\Program Files\RollingDice\RollingDice\obj\Debug\RollingDice.pdb
